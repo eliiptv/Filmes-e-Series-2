@@ -1,365 +1,173 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/9344
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/8139
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20892
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4404
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20893
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/9343
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/7691
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20890
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/7448
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20891
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES | SERIES",AXN FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13212
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES | SERIES",AXN HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6140
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES | SERIES",AXN HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20882
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png" group-title="CANAIS FILMES | SERIES",AXN SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4402
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png" group-title="CANAIS FILMES | SERIES",AXN SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20884
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/5a3654860a74e27b56f5619b5aad.png" group-title="CANAIS FILMES | SERIES",CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/10293
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/5a3654860a74e27b56f5619b5aad.png" group-title="CANAIS FILMES | SERIES",CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6963
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/5a3654860a74e27b56f5619b5aad.png" group-title="CANAIS FILMES | SERIES",CANAL BRASIL SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20838
-#EXTINF:-1 tvg-id="Sony" tvg-name="CANAL SONY FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png" group-title="CANAIS FILMES | SERIES",CANAL SONY FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13202
-#EXTINF:-1 tvg-id="Sony" tvg-name="CANAL SONY HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png" group-title="CANAIS FILMES | SERIES",CANAL SONY HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6961
-#EXTINF:-1 tvg-id="Sony" tvg-name="CANAL SONY HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png" group-title="CANAIS FILMES | SERIES",CANAL SONY HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20527
-#EXTINF:-1 tvg-id="Sony" tvg-name="CANAL SONY SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-Canal_Sony_logo.svg_.png" group-title="CANAIS FILMES | SERIES",CANAL SONY SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4395
-#EXTINF:-1 tvg-id="Sony" tvg-name="CANAL SONY SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-Canal_Sony_logo.svg_.png" group-title="CANAIS FILMES | SERIES",CANAL SONY SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20529
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES | SERIES",CINEMAX FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/10993
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES | SERIES",CINEMAX HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/7802
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES | SERIES",CINEMAX HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20834
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Cinemax_LA.png" group-title="CANAIS FILMES | SERIES",CINEMAX SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4393
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES | SERIES",CINEMAX SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/24630
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES | SERIES",COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/24920
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES | SERIES",COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/10292
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES | SERIES",COMEDY CENTRAL HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20827
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES | SERIES",COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4391
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES | SERIES",COMEDY CENTRAL SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20828
-#EXTINF:-1 tvg-id="Fox" tvg-name="FOX FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png" group-title="CANAIS FILMES | SERIES",FOX FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/9141
-#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png" group-title="CANAIS FILMES | SERIES",FOX HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6122
-#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png" group-title="CANAIS FILMES | SERIES",FOX HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20759
-#EXTINF:-1 tvg-id="Fox" tvg-name="FOX SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX-TV-logo.png" group-title="CANAIS FILMES | SERIES",FOX SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4375
-#EXTINF:-1 tvg-id="Fox" tvg-name="FOX SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX-TV-logo.png" group-title="CANAIS FILMES | SERIES",FOX SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20760
-#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS FILMES | SERIES",FX FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13199
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_Life_pt_logo.png" group-title="CANAIS FILMES | SERIES",FOX LIFE FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/25009
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOXlife_HD_Logo.png" group-title="CANAIS FILMES | SERIES",FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6876
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_Life_pt_logo.png" group-title="CANAIS FILMES | SERIES",FOX LIFE HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20761
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_Life_pt_logo.png" group-title="CANAIS FILMES | SERIES",FOX LIFE SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4374
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_Life_pt_logo.png" group-title="CANAIS FILMES | SERIES",FOX LIFE SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20762
-#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png" group-title="CANAIS FILMES | SERIES",FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/10279
-#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX PREMIUM 1 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png" group-title="CANAIS FILMES | SERIES",FOX PREMIUM 1 HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20763
-#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png" group-title="CANAIS FILMES | SERIES",FOX PREMIUM 2 FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11529
-#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png" group-title="CANAIS FILMES | SERIES",FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/10278
-#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX PREMIUM 2 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png" group-title="CANAIS FILMES | SERIES",FOX PREMIUM 2 HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20764
-#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS FILMES | SERIES",FX HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6116
-#EXTINF:-1 tvg-id="FX" tvg-name="FX HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS FILMES | SERIES",FX HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20775
-#EXTINF:-1 tvg-id="FX" tvg-name="FX SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS FILMES | SERIES",FX SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4371
-#EXTINF:-1 tvg-id="FX" tvg-name="FX SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS FILMES | SERIES",FX SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20777
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="CANAIS TELECINE/HBO",HBO 2 FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11567
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="CANAIS TELECINE/HBO",HBO 2 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6110
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="CANAIS TELECINE/HBO",HBO 2 HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20690
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="CANAIS TELECINE/HBO",HBO 2 SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4365
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="CANAIS TELECINE/HBO",HBO 2 SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20692
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="CANAIS TELECINE/HBO",HBO FAMILY FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11568
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO Family HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="CANAIS TELECINE/HBO",HBO Family HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6109
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="CANAIS TELECINE/HBO",HBO FAMILY HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20687
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="CANAIS TELECINE/HBO",HBO FAMILY SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4364
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="CANAIS TELECINE/HBO",HBO FAMILY SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20688
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="CANAIS TELECINE/HBO",HBO FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11566
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="CANAIS TELECINE/HBO",HBO HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6108
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="CANAIS TELECINE/HBO",HBO HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20694
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="CANAIS TELECINE/HBO",HBO SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4366
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="CANAIS TELECINE/HBO",HBO SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20696
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="CANAIS TELECINE/HBO",HBO PLUS FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13190
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="CANAIS TELECINE/HBO",HBO PLUS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6106
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="CANAIS TELECINE/HBO",HBO PLUS HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20920
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="CANAIS TELECINE/HBO",HBO PLUS SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4363
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="CANAIS TELECINE/HBO",HBO PLUS SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20684
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="CANAIS TELECINE/HBO",HBO SIGNATURE FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11570
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="CANAIS TELECINE/HBO",HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6105
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="CANAIS TELECINE/HBO",HBO SIGNATURE HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20678
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="CANAIS TELECINE/HBO",HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4361
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="CANAIS TELECINE/HBO",HBO SIGNATURE SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20679
-#EXTINF:-1 tvg-id="MAX" tvg-name="MAX FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS FILMES | SERIES",MAX FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13189
-#EXTINF:-1 tvg-id="MAX" tvg-name="MAX HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS FILMES | SERIES",MAX HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/10266
-#EXTINF:-1 tvg-id="MAX" tvg-name="MAX HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS FILMES | SERIES",MAX HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20662
-#EXTINF:-1 tvg-id="MAX" tvg-name="MAX SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS FILMES | SERIES",MAX SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4358
-#EXTINF:-1 tvg-id="MAX" tvg-name="MAX SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS FILMES | SERIES",MAX SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20664
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="CANAIS FILMES | SERIES",MAX PRIME FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/25014
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="CANAIS FILMES | SERIES",MAX PRIME HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/7850
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="CANAIS FILMES | SERIES",MAX PRIME HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20657
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="CANAIS FILMES | SERIES",MAX PRIME SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4357
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="CANAIS FILMES | SERIES",MAX PRIME SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20658
-#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="CANAIS FILMES | SERIES",MAX UP FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/25015
-#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="CANAIS FILMES | SERIES",MAX UP HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/10265
-#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="CANAIS FILMES | SERIES",MAX UP HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20659
-#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="CANAIS FILMES | SERIES",MAX UP SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4355
-#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="CANAIS FILMES | SERIES",MAX UP SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20660
-#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS FILMES | SERIES",MEGAPIX FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/8146
-#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS FILMES | SERIES",MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6101
-#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS FILMES | SERIES",MEGAPIX HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20653
-#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS FILMES | SERIES",MEGAPIX SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4354
-#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS FILMES | SERIES",MEGAPIX SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20654
-#EXTINF:-1 tvg-id="Paramount" tvg-name="PARAMOUNT FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS FILMES | SERIES",PARAMOUNT FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13185
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS FILMES | SERIES",PARAMOUNT HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6945
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS FILMES | SERIES",PARAMOUNT HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20619
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS FILMES | SERIES",PARAMOUNT SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6946
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS FILMES | SERIES",PARAMOUNT SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20621
-#EXTINF:-1 tvg-id="PlayTV" tvg-name="PLAY TV SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/playtv.png" group-title="CANAIS ENTRETENIMENTO",PLAY TV SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20617
-#EXTINF:-1 tvg-id="" tvg-name="PPV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CANAIS FILMES | SERIES",PPV 1
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20586
-#EXTINF:-1 tvg-id="" tvg-name="PPV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CANAIS FILMES | SERIES",PPV 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20585
-#EXTINF:-1 tvg-id="" tvg-name="PPV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CANAIS FILMES | SERIES",PPV 3
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20584
-#EXTINF:-1 tvg-id="" tvg-name="PPV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CANAIS FILMES | SERIES",PPV 4
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20583
-#EXTINF:-1 tvg-id="" tvg-name="PPV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CANAIS FILMES | SERIES",PPV 5
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20582
-#EXTINF:-1 tvg-id="Rai Italia" tvg-name="RAI ITALIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="CANAIS FILMES | SERIES",RAI ITALIA SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20581
-#EXTINF:-1 tvg-id="Space" tvg-name="SPACE FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1257.png" group-title="CANAIS FILMES | SERIES",SPACE FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13197
-#EXTINF:-1 tvg-id="Space" tvg-name="SPACE HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1257.png" group-title="CANAIS FILMES | SERIES",SPACE HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6085
-#EXTINF:-1 tvg-id="Space" tvg-name="SPACE HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1257.png" group-title="CANAIS FILMES | SERIES",SPACE HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20532
-#EXTINF:-1 tvg-id="Space" tvg-name="SPACE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/space.png" group-title="CANAIS FILMES | SERIES",SPACE SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4328
-#EXTINF:-1 tvg-id="Space" tvg-name="SPACE SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/space.png" group-title="CANAIS FILMES | SERIES",SPACE SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20533
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS FILMES | SERIES",STUDIO UNIVERSAL FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13194
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS FILMES | SERIES",STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/7874
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS FILMES | SERIES",STUDIO UNIVERSAL HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20546
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS FILMES | SERIES",STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4324
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS FILMES | SERIES",STUDIO UNIVERSAL SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20547
-#EXTINF:-1 tvg-id="SUNDANCE" tvg-name="SUNDANCE TV HD" tvg-logo="https://images.amcnetworks.com/festival.sundancetv.com/wp-content/uploads/2017/12/sundance_tv_logo.png" group-title="CANAIS FILMES | SERIES",SUNDANCE TV HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20524
-#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS FILMES | SERIES",SYFY FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13195
-#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS FILMES | SERIES",SYFY HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/7795
-#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS FILMES | SERIES",SYFY HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20550
-#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS FILMES | SERIES",SYFY SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4323
-#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS FILMES | SERIES",SYFY SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20551
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="CANAIS FILMES | SERIES",TBS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/7873
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="CANAIS FILMES | SERIES",TBS HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20521
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="CANAIS FILMES | SERIES",TBS SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4322
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="CANAIS FILMES | SERIES",TBS SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20522
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png" group-title="CANAIS FILMES | SERIES",TCM HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11003
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png" group-title="CANAIS FILMES | SERIES",TCM SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4321
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png" group-title="CANAIS FILMES | SERIES",TCM SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20496
-#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE/HBO",TELECINE ACTION FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/8141
-#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE/HBO",TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6080
-#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE/HBO",TELECINE ACTION HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20517
-#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE/HBO",TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4320
-#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE/HBO",TELECINE ACTION SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20518
-#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE/HBO",TELECINE CULT FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/8143
-#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE/HBO",TELECINE CULT HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/10247
-#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE/HBO",TELECINE CULT HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20513
-#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE/HBO",TELECINE CULT SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4319
-#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE/HBO",TELECINE CULT SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20514
-#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE/HBO",TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11561
-#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE/HBO",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6079
-#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE/HBO",TELECINE FUN HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20509
-#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE/HBO",TELECINE FUN SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4318
-#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE/HBO",TELECINE FUN SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20510
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE/HBO",TELECINE PIPOCA FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/8144
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE/HBO",TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6078
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE/HBO",TELECINE PIPOCA HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20505
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE/HBO",TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4317
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE/HBO",TELECINE PIPOCA SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20506
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE/HBO",TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/8140
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE/HBO",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6077
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE/HBO",TELECINE PREMIUM HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20501
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE/HBO",TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4316
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE/HBO",TELECINE PREMIUM SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20502
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE/HBO",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6076
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE/HBO",TELECINE TOUCH HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20497
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE/HBO",TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4315
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE/HBO",TELECINE TOUCH SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20498
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES | SERIES",TNT FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13181
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES | SERIES",TNT HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6074
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES | SERIES",TNT HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20493
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES | SERIES",TNT SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4312
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES | SERIES",TNT SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20494
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS FILMES | SERIES",TNT SERIES FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13186
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS FILMES | SERIES",TNT SERIES HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6073
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS FILMES | SERIES",TNT SERIES HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20489
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS FILMES | SERIES",TNT SERIES SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4311
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS FILMES | SERIES",TNT SERIES SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20490
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS FILMES | SERIES",UNIVERSAL CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13192
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS FILMES | SERIES",UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/5987
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS FILMES | SERIES",UNIVERSAL CHANNEL HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20464
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS FILMES | SERIES",UNIVERSAL CHANNEL SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4308
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS FILMES | SERIES",UNIVERSAL CHANNEL SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20465
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS FILMES | SERIES",WARNER CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11525
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS FILMES | SERIES",WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6072
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS FILMES | SERIES",WARNER CHANNEL HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20456
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS FILMES | SERIES",WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4307
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS FILMES | SERIES",WARNER CHANNEL SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20457
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="BR: A&E FHD" tvg-logo="https://2.bp.blogspot.com/-g-lG1V1udWU/WqvTK7W9PvI/AAAAAAAAAZM/z8Nf_1S_QSgU2SsVy5uGmghXx4BFBcaVACLcBGAs/s1600/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="ENTRETENIMENTO",BR: A&E FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153748
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="BR:A&E HD" tvg-logo="https://2.bp.blogspot.com/-g-lG1V1udWU/WqvTK7W9PvI/AAAAAAAAAZM/z8Nf_1S_QSgU2SsVy5uGmghXx4BFBcaVACLcBGAs/s1600/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="ENTRETENIMENTO",BR:A&E HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141993
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="BR: A&E SD" tvg-logo="https://2.bp.blogspot.com/-g-lG1V1udWU/WqvTK7W9PvI/AAAAAAAAAZM/z8Nf_1S_QSgU2SsVy5uGmghXx4BFBcaVACLcBGAs/s1600/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="ENTRETENIMENTO",BR: A&E SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141994
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="BR: AMC FHD" tvg-logo="https://2.bp.blogspot.com/-JpifbV9vwoM/WqvTLYll0uI/AAAAAAAAAZU/fkCyK61wd1c6_WKWP5o9cU-brGMwvJP7gCLcBGAs/s1600/1516238758_3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="ENTRETENIMENTO",BR: AMC FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153727
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="BR:AMC HD" tvg-logo="https://2.bp.blogspot.com/-JpifbV9vwoM/WqvTLYll0uI/AAAAAAAAAZU/fkCyK61wd1c6_WKWP5o9cU-brGMwvJP7gCLcBGAs/s1600/1516238758_3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="ENTRETENIMENTO",BR:AMC HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141987
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="BR:AMC SD" tvg-logo="https://2.bp.blogspot.com/-JpifbV9vwoM/WqvTLYll0uI/AAAAAAAAAZU/fkCyK61wd1c6_WKWP5o9cU-brGMwvJP7gCLcBGAs/s1600/1516238758_3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="ENTRETENIMENTO",BR:AMC SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141988
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="BR: AXN FHD" tvg-logo="https://1.bp.blogspot.com/-sPYgwI8ZWg4/WqvTMSaj1RI/AAAAAAAAAZg/RCu6MWWFdNsp_eLYtXEBxQ1Dgq0Dwx0dACLcBGAs/s1600/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="ENTRETENIMENTO",BR: AXN FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153747
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="BR:AXN HD" tvg-logo="https://1.bp.blogspot.com/-sPYgwI8ZWg4/WqvTMSaj1RI/AAAAAAAAAZg/RCu6MWWFdNsp_eLYtXEBxQ1Dgq0Dwx0dACLcBGAs/s1600/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="ENTRETENIMENTO",BR:AXN HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141984
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="BR:AXN SD" tvg-logo="https://1.bp.blogspot.com/-sPYgwI8ZWg4/WqvTMSaj1RI/AAAAAAAAAZg/RCu6MWWFdNsp_eLYtXEBxQ1Dgq0Dwx0dACLcBGAs/s1600/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="ENTRETENIMENTO",BR:AXN SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141985
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="BR:Cinemax HD." tvg-logo="https://2.bp.blogspot.com/-OuTKO0-AQ60/WqvTR9DpCWI/AAAAAAAAAaQ/pEoxdi6dQJohQe8flAer2z2GP90RiO-bwCLcBGAs/s1600/1516241687_223a375f300af8b0ce8a2e33f44e5c9836739a89.png" group-title="ENTRETENIMENTO",BR:Cinemax HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141958
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="BR:Cinemax SD." tvg-logo="https://2.bp.blogspot.com/-OuTKO0-AQ60/WqvTR9DpCWI/AAAAAAAAAaQ/pEoxdi6dQJohQe8flAer2z2GP90RiO-bwCLcBGAs/s1600/1516241687_223a375f300af8b0ce8a2e33f44e5c9836739a89.png" group-title="ENTRETENIMENTO",BR:Cinemax SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141959
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="BR: Fox FHD" tvg-logo="https://4.bp.blogspot.com/-G49Ms0dv_hE/WqvTac4TpWI/AAAAAAAAAbs/QHxSL0OWEwsEY-ZeX7wTK65amD1fIgnJACLcBGAs/s1600/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="ENTRETENIMENTO",BR: Fox FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153741
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="BR:FOX Principal HD." tvg-logo="https://4.bp.blogspot.com/-G49Ms0dv_hE/WqvTac4TpWI/AAAAAAAAAbs/QHxSL0OWEwsEY-ZeX7wTK65amD1fIgnJACLcBGAs/s1600/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="ENTRETENIMENTO",BR:FOX Principal HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141907
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="BR:FOX SD." tvg-logo="https://4.bp.blogspot.com/-G49Ms0dv_hE/WqvTac4TpWI/AAAAAAAAAbs/QHxSL0OWEwsEY-ZeX7wTK65amD1fIgnJACLcBGAs/s1600/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="ENTRETENIMENTO",BR:FOX SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141908
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="BR: FOX LIFE FHD" tvg-logo="https://3.bp.blogspot.com/-kkgS6vxaBDs/WqvTa6gwcjI/AAAAAAAAAbw/AxdcPZ6oNUQAvqEGoLtzMDEyC1qPOeZ5wCLcBGAs/s1600/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.png" group-title="DOCUMENTARIOS",BR: FOX LIFE FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153725
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="BR:FOX LIFE HD." tvg-logo="https://3.bp.blogspot.com/-kkgS6vxaBDs/WqvTa6gwcjI/AAAAAAAAAbw/AxdcPZ6oNUQAvqEGoLtzMDEyC1qPOeZ5wCLcBGAs/s1600/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.png" group-title="DOCUMENTARIOS",BR:FOX LIFE HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141904
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="BR:FOX LIFE SD*" tvg-logo="https://3.bp.blogspot.com/-kkgS6vxaBDs/WqvTa6gwcjI/AAAAAAAAAbw/AxdcPZ6oNUQAvqEGoLtzMDEyC1qPOeZ5wCLcBGAs/s1600/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.png" group-title="DOCUMENTARIOS",BR:FOX LIFE SD*
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141905
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="BR:Fox Premium 1 HD." tvg-logo="https://2.bp.blogspot.com/-yiG6V6GYh-0/WqvTbVbM6SI/AAAAAAAAAb0/LXN5wKUaC-AqFxAPL1XnKAEHhz8nf_z2wCLcBGAs/s1600/1516307631_6b3ce654ae31075d91809448b199d3604fa33880.png" group-title="ENTRETENIMENTO",BR:Fox Premium 1 HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141903
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="BR:Fox Premium 2 HD." tvg-logo="https://1.bp.blogspot.com/-lsxLOP9HOzo/WqvTb4_05MI/AAAAAAAAAb4/I05fBM6q-d0LT1twO2ua1zX7fzG0Gi5JwCLcBGAs/s1600/1516307739_4de824502ee2ab7fc740f3d8e959b278a68e2be4.png" group-title="ENTRETENIMENTO",BR:Fox Premium 2 HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141901
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="BR:FX HD." tvg-logo="https://3.bp.blogspot.com/-hJ-9gJZnN3I/WqvTd171VXI/AAAAAAAAAcE/krLmb9QTinMStwJ4e2PHZHS3dIPKJ2yIgCLcBGAs/s1600/1516308094_9b4156603dcb6ff24f1d22277f244b3eed9816db.png" group-title="ENTRETENIMENTO",BR:FX HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141866
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="BR:FX SD." tvg-logo="https://3.bp.blogspot.com/-hJ-9gJZnN3I/WqvTd171VXI/AAAAAAAAAcE/krLmb9QTinMStwJ4e2PHZHS3dIPKJ2yIgCLcBGAs/s1600/1516308094_9b4156603dcb6ff24f1d22277f244b3eed9816db.png" group-title="ENTRETENIMENTO",BR:FX SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141867
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="BR: HBO FHD" tvg-logo="https://3.bp.blogspot.com/-_zSPeoaaJ3w/WqvTi90SJTI/AAAAAAAAAc4/H12ZM4pC3LYoassT25tacdUQjEEFv2crACLcBGAs/s1600/1516310963_93dd95b2bb0ed437164a949521c4c39a2315839d.png" group-title="ENTRETENIMENTO",BR: HBO FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153739
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="BR:HBO Principal HD." tvg-logo="https://3.bp.blogspot.com/-_zSPeoaaJ3w/WqvTi90SJTI/AAAAAAAAAc4/H12ZM4pC3LYoassT25tacdUQjEEFv2crACLcBGAs/s1600/1516310963_93dd95b2bb0ed437164a949521c4c39a2315839d.png" group-title="ENTRETENIMENTO",BR:HBO Principal HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141856
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="BR:HBO SD." tvg-logo="https://3.bp.blogspot.com/-_zSPeoaaJ3w/WqvTi90SJTI/AAAAAAAAAc4/H12ZM4pC3LYoassT25tacdUQjEEFv2crACLcBGAs/s1600/1516310963_93dd95b2bb0ed437164a949521c4c39a2315839d.png" group-title="ENTRETENIMENTO",BR:HBO SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141857
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="BR:HBO 2 HD." tvg-logo="https://2.bp.blogspot.com/--bM9qZHisTA/WqvTjaZDdGI/AAAAAAAAAc8/9Thy9en62ZU5cXsW7828TiTem3cC2JOawCLcBGAs/s1600/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.png" group-title="ENTRETENIMENTO",BR:HBO 2 HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141854
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="BR:HBO 2 SD." tvg-logo="https://2.bp.blogspot.com/--bM9qZHisTA/WqvTjaZDdGI/AAAAAAAAAc8/9Thy9en62ZU5cXsW7828TiTem3cC2JOawCLcBGAs/s1600/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.png" group-title="ENTRETENIMENTO",BR:HBO 2 SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141855
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="BR:HBO Family HD." tvg-logo="https://1.bp.blogspot.com/-7uitk8TLIIU/WqvTj36FMUI/AAAAAAAAAdA/r4hOWrjc4FIJvrFiCxW8cIvdETuvAI2EgCLcBGAs/s1600/1516311196_c901e94fbc94819c91616c75905a41d6af11970c.png" group-title="ENTRETENIMENTO",BR:HBO Family HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141852
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="BR:HBO Family SD." tvg-logo="https://1.bp.blogspot.com/-7uitk8TLIIU/WqvTj36FMUI/AAAAAAAAAdA/r4hOWrjc4FIJvrFiCxW8cIvdETuvAI2EgCLcBGAs/s1600/1516311196_c901e94fbc94819c91616c75905a41d6af11970c.png" group-title="ENTRETENIMENTO",BR:HBO Family SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141853
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="BR:HBO Plus HD." tvg-logo="https://3.bp.blogspot.com/-MMFUbv91NHk/WqvTkbnJJTI/AAAAAAAAAdE/niFwlj26Uj8Dcxwsp-V_2fZ-f5eybfdnQCLcBGAs/s1600/1516311316_72fe3dc94524fffb92702a67f9780dd8d20ab761.png" group-title="ENTRETENIMENTO",BR:HBO Plus HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141848
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="BR:HBO Plus SD." tvg-logo="https://3.bp.blogspot.com/-MMFUbv91NHk/WqvTkbnJJTI/AAAAAAAAAdE/niFwlj26Uj8Dcxwsp-V_2fZ-f5eybfdnQCLcBGAs/s1600/1516311316_72fe3dc94524fffb92702a67f9780dd8d20ab761.png" group-title="ENTRETENIMENTO",BR:HBO Plus SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141849
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="BR:HBO Plus*e HD." tvg-logo="https://2.bp.blogspot.com/-uMKoDROjsBc/WqvTk9AoBRI/AAAAAAAAAdI/0FWcs2n5pWMQAyt7VUuLk08LO340tPpXQCLcBGAs/s1600/1516311467_5fa5e712f15bfb41aac89be2071ba8f69b97a539.png" group-title="ENTRETENIMENTO",BR:HBO Plus*e HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141850
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="BR:HBO Plus*e SD." tvg-logo="https://2.bp.blogspot.com/-uMKoDROjsBc/WqvTk9AoBRI/AAAAAAAAAdI/0FWcs2n5pWMQAyt7VUuLk08LO340tPpXQCLcBGAs/s1600/1516311467_5fa5e712f15bfb41aac89be2071ba8f69b97a539.png" group-title="ENTRETENIMENTO",BR:HBO Plus*e SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141851
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="BR:HBO Signature Principal HD." tvg-logo="https://4.bp.blogspot.com/-9lokj6SJA34/WqvTlPvuKTI/AAAAAAAAAdM/1kycmfLxPy0_KSvJgvuDV_KzUWZeWxX9wCLcBGAs/s1600/1516311574_cf89ef886267b71b946bc40c6c85bc5c9b2d2080.png" group-title="ENTRETENIMENTO",BR:HBO Signature Principal HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141846
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="BR:HBO Signature SD." tvg-logo="https://4.bp.blogspot.com/-9lokj6SJA34/WqvTlPvuKTI/AAAAAAAAAdM/1kycmfLxPy0_KSvJgvuDV_KzUWZeWxX9wCLcBGAs/s1600/1516311574_cf89ef886267b71b946bc40c6c85bc5c9b2d2080.png" group-title="ENTRETENIMENTO",BR:HBO Signature SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141847
+#EXTINF:-1 tvg-id="Max.br" tvg-name="BR:Max HD." tvg-logo="https://3.bp.blogspot.com/-qHfcFD21TQg/WqvTnJtIYoI/AAAAAAAAAdk/nEweBbuRDg85xE9RM-0C_DhDjdi9LTAJgCLcBGAs/s1600/1516312335_77be754915af921d9d5365b5bf9f7afc977ca40b.png" group-title="ENTRETENIMENTO",BR:Max HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141838
+#EXTINF:-1 tvg-id="Max.br" tvg-name="BR:Max SD." tvg-logo="https://3.bp.blogspot.com/-qHfcFD21TQg/WqvTnJtIYoI/AAAAAAAAAdk/nEweBbuRDg85xE9RM-0C_DhDjdi9LTAJgCLcBGAs/s1600/1516312335_77be754915af921d9d5365b5bf9f7afc977ca40b.png" group-title="ENTRETENIMENTO",BR:Max SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141839
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="BR:Max Prime HD." tvg-logo="https://1.bp.blogspot.com/-YnCXNKXJ6cU/WqvTnD9TMsI/AAAAAAAAAdo/CXJtbaWFKXY2CTZVCk5IZdRKlWpANTWOwCLcBGAs/s1600/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="ENTRETENIMENTO",BR:Max Prime HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141836
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="BR:Max Prime SD." tvg-logo="https://1.bp.blogspot.com/-YnCXNKXJ6cU/WqvTnD9TMsI/AAAAAAAAAdo/CXJtbaWFKXY2CTZVCk5IZdRKlWpANTWOwCLcBGAs/s1600/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="ENTRETENIMENTO",BR:Max Prime SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141837
+#EXTINF:-1 tvg-id="Maxprimee.br" tvg-name="BR:Max Prime*e SD." tvg-logo="https://1.bp.blogspot.com/-YnCXNKXJ6cU/WqvTnD9TMsI/AAAAAAAAAdo/CXJtbaWFKXY2CTZVCk5IZdRKlWpANTWOwCLcBGAs/s1600/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="ENTRETENIMENTO",BR:Max Prime*e SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141835
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="Max Up HD." tvg-logo="https://4.bp.blogspot.com/-ec7EFqxVea0/WqvTnhE63tI/AAAAAAAAAds/UpGX8o9tK7YVD03cLt-xlw338aJgFz-kgCLcBGAs/s1600/1516312593_36e8b2da5547db4c5bdff448859cde890b79f518.png" group-title="ENTRETENIMENTO",Max Up HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141830
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="BR:Max Up SD." tvg-logo="https://4.bp.blogspot.com/-ec7EFqxVea0/WqvTnhE63tI/AAAAAAAAAds/UpGX8o9tK7YVD03cLt-xlw338aJgFz-kgCLcBGAs/s1600/1516312593_36e8b2da5547db4c5bdff448859cde890b79f518.png" group-title="ENTRETENIMENTO",BR:Max Up SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141831
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="BR:MEGA PIX HD." tvg-logo="https://4.bp.blogspot.com/-TU5zS-ZRzr8/WqvToD8JipI/AAAAAAAAAd0/bFDvKDJuYJoLs3UOlycDrozwYLzC5cKnQCLcBGAs/s1600/1516312673_6d1d76a391dc330a0250a95fb873c7313c9eacf2.png" group-title="ENTRETENIMENTO",BR:MEGA PIX HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141833
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="BR:MEGA PIX SD." tvg-logo="https://4.bp.blogspot.com/-TU5zS-ZRzr8/WqvToD8JipI/AAAAAAAAAd0/bFDvKDJuYJoLs3UOlycDrozwYLzC5cKnQCLcBGAs/s1600/1516312673_6d1d76a391dc330a0250a95fb873c7313c9eacf2.png" group-title="ENTRETENIMENTO",BR:MEGA PIX SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141834
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="BR:Paramount HD." tvg-logo="https://2.bp.blogspot.com/-KCwPwZvjo-g/WqvTtbxoVrI/AAAAAAAAAek/Kw1vvMnoI843cdoysE8iS7HwbNIoSisegCLcBGAs/s1600/1516320245_1bb5f2856804bc053a3adbc77a3744d87fd477cf.png" group-title="ENTRETENIMENTO",BR:Paramount HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141795
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="BR:Paramount SD." tvg-logo="https://2.bp.blogspot.com/-KCwPwZvjo-g/WqvTtbxoVrI/AAAAAAAAAek/Kw1vvMnoI843cdoysE8iS7HwbNIoSisegCLcBGAs/s1600/1516320245_1bb5f2856804bc053a3adbc77a3744d87fd477cf.png" group-title="ENTRETENIMENTO",BR:Paramount SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141796
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="BR:Canal Sony HD." tvg-logo="https://4.bp.blogspot.com/-FW-2iQrOvmE/WqvTzIiSKJI/AAAAAAAAAfo/AUI59tySeiwauY6WsafdfQuMzVdKaxuBACLcBGAs/s1600/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.png" group-title="ENTRETENIMENTO",BR:Sony HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141961
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="BR:Canal Sony SD." tvg-logo="https://4.bp.blogspot.com/-FW-2iQrOvmE/WqvTzIiSKJI/AAAAAAAAAfo/AUI59tySeiwauY6WsafdfQuMzVdKaxuBACLcBGAs/s1600/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.png" group-title="ENTRETENIMENTO",BR:Sony SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141962
+#EXTINF:-1 tvg-id="Space.br" tvg-name="BR: Space FHD" tvg-logo="https://1.bp.blogspot.com/-lkkF5UIf-Gg/WqvTzWmGugI/AAAAAAAAAfs/Nnce4iRGfWs_a5cbCo6uB9jm5fP-uienACLcBGAs/s1600/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.png" group-title="ENTRETENIMENTO",BR: Space FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153731
+#EXTINF:-1 tvg-id="Space.br" tvg-name="BR:Space HD." tvg-logo="https://1.bp.blogspot.com/-lkkF5UIf-Gg/WqvTzWmGugI/AAAAAAAAAfs/Nnce4iRGfWs_a5cbCo6uB9jm5fP-uienACLcBGAs/s1600/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.png" group-title="ENTRETENIMENTO",BR:Space HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141777
+#EXTINF:-1 tvg-id="Space.br" tvg-name="BR:Space SD." tvg-logo="https://1.bp.blogspot.com/-lkkF5UIf-Gg/WqvTzWmGugI/AAAAAAAAAfs/Nnce4iRGfWs_a5cbCo6uB9jm5fP-uienACLcBGAs/s1600/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.png" group-title="ENTRETENIMENTO",BR:Space SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141778
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="BR: Studio Universal FHD" tvg-logo="https://3.bp.blogspot.com/-kNvMtfbcQvM/WqvT0pPNGxI/AAAAAAAAAf8/B96ip9FSkIgmzalG-lFc3kQ8olZsemz3ACLcBGAs/s1600/1516325912_5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.png" group-title="ENTRETENIMENTO",BR: Studio Universal FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153729
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="BR:Studio Universal HD." tvg-logo="https://2.bp.blogspot.com/-5E1M8XYZtfc/WqvT-tPFWgI/AAAAAAAAAhg/cAdiOhjnw-ADB4BYcPs3hBq_c86FA-bCgCLcBGAs/s1600/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="ENTRETENIMENTO",BR:Studio Universal HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141768
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="BR:Studio Universal SD." tvg-logo="https://2.bp.blogspot.com/-5E1M8XYZtfc/WqvT-tPFWgI/AAAAAAAAAhg/cAdiOhjnw-ADB4BYcPs3hBq_c86FA-bCgCLcBGAs/s1600/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="ENTRETENIMENTO",BR:Studio Universal SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141769
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="BR: SyFy FHD" tvg-logo="https://1.bp.blogspot.com/-w1SZmZcO_As/WqvT1Ll6hHI/AAAAAAAAAgA/xoQ1nqVX9AE988oi_G4QewRB9x4s6LSIwCLcBGAs/s1600/1516326010_d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.png" group-title="ENTRETENIMENTO",BR: SyFy FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153728
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="BR:SyFy HD." tvg-logo="https://1.bp.blogspot.com/-w1SZmZcO_As/WqvT1Ll6hHI/AAAAAAAAAgA/xoQ1nqVX9AE988oi_G4QewRB9x4s6LSIwCLcBGAs/s1600/1516326010_d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.png" group-title="ENTRETENIMENTO",BR:SyFy HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141766
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="BR:SyFy SD." tvg-logo="https://1.bp.blogspot.com/-w1SZmZcO_As/WqvT1Ll6hHI/AAAAAAAAAgA/xoQ1nqVX9AE988oi_G4QewRB9x4s6LSIwCLcBGAs/s1600/1516326010_d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.png" group-title="ENTRETENIMENTO",BR:SyFy SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141767
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="BR:TBS HD." tvg-logo="https://4.bp.blogspot.com/-a13Lr6Qs_gg/WqvT1c6LzII/AAAAAAAAAgE/2-dyFpfglHQBp2vb8wris5yJlLgXoFPOgCLcBGAs/s1600/1516360523_39401f3fecceb9ab2cbd9a97fb72402523fb0825.jpg" group-title="ENTRETENIMENTO",BR:TBS HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141764
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="BR:TBS SD." tvg-logo="https://4.bp.blogspot.com/-a13Lr6Qs_gg/WqvT1c6LzII/AAAAAAAAAgE/2-dyFpfglHQBp2vb8wris5yJlLgXoFPOgCLcBGAs/s1600/1516360523_39401f3fecceb9ab2cbd9a97fb72402523fb0825.jpg" group-title="ENTRETENIMENTO",BR:TBS SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141765
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="BR:TCM HD." tvg-logo="https://2.bp.blogspot.com/-pCZQ0GQb22I/WqvT4tD3gBI/AAAAAAAAAgg/ULVqRt5kYhcGlWl5TdjJXqPUWmgbjKAHQCLcBGAs/s1600/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.png" group-title="ENTRETENIMENTO",BR:TCM HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141744
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="BR:TCM SD." tvg-logo="https://2.bp.blogspot.com/-pCZQ0GQb22I/WqvT4tD3gBI/AAAAAAAAAgg/ULVqRt5kYhcGlWl5TdjJXqPUWmgbjKAHQCLcBGAs/s1600/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.png" group-title="ENTRETENIMENTO",BR:TCM SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141745
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="BR: TELECINE ACTION FHD" tvg-logo="https://2.bp.blogspot.com/-oZuN_6pmEOs/WqvT14Z6jnI/AAAAAAAAAgI/L04Pi82IWzsAVs8lb1HNuMyxYJrgH-FcQCLcBGAs/s1600/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="ENTRETENIMENTO",BR: TELECINE ACTION FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153723
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="BR:Telecine Action Principal HD." tvg-logo="https://2.bp.blogspot.com/-oZuN_6pmEOs/WqvT14Z6jnI/AAAAAAAAAgI/L04Pi82IWzsAVs8lb1HNuMyxYJrgH-FcQCLcBGAs/s1600/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="ENTRETENIMENTO",BR:Telecine Action Principal HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141762
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="BR:Telecine Action SD." tvg-logo="https://2.bp.blogspot.com/-oZuN_6pmEOs/WqvT14Z6jnI/AAAAAAAAAgI/L04Pi82IWzsAVs8lb1HNuMyxYJrgH-FcQCLcBGAs/s1600/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="ENTRETENIMENTO",BR:Telecine Action SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141763
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="BR:Telecine Cult HD." tvg-logo="https://3.bp.blogspot.com/-CgwPZPiJvgQ/WqvT2XOgIhI/AAAAAAAAAgM/ntjW9B5fIEAKcmXHYPw3htfKzVE74rtewCLcBGAs/s1600/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="ENTRETENIMENTO",BR:Telecine Cult HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141759
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="BR:Telecine Cult SD." tvg-logo="https://3.bp.blogspot.com/-CgwPZPiJvgQ/WqvT2XOgIhI/AAAAAAAAAgM/ntjW9B5fIEAKcmXHYPw3htfKzVE74rtewCLcBGAs/s1600/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="ENTRETENIMENTO",BR:Telecine Cult SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141760
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="BR: TELECINE FUN FHD" tvg-logo="https://3.bp.blogspot.com/-EWT2YsdU1WI/WqvT2tCLyzI/AAAAAAAAAgQ/spIBStzUjw01ukHY8YjWuHqHSQDHdn6UACLcBGAs/s1600/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="ENTRETENIMENTO",BR: TELECINE FUN FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153722
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="BR:telecine Fun HD." tvg-logo="https://3.bp.blogspot.com/-EWT2YsdU1WI/WqvT2tCLyzI/AAAAAAAAAgQ/spIBStzUjw01ukHY8YjWuHqHSQDHdn6UACLcBGAs/s1600/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="ENTRETENIMENTO",BR:telecine Fun HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141756
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="BR:Telecine Fun SD." tvg-logo="https://3.bp.blogspot.com/-EWT2YsdU1WI/WqvT2tCLyzI/AAAAAAAAAgQ/spIBStzUjw01ukHY8YjWuHqHSQDHdn6UACLcBGAs/s1600/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="ENTRETENIMENTO",BR:Telecine Fun SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141757
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="BR: TELECINE PIPOCA  FHD" tvg-logo="https://3.bp.blogspot.com/-0ueHjIMPvIU/WqvT3MvY43I/AAAAAAAAAgU/DCtlRvcqaDUWJSj3JvUIsy9kw0HqqCSkgCLcBGAs/s1600/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="ENTRETENIMENTO",BR: TELECINE PIPOCA  FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153721
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="BR:Telecine Pipoca Principal HD." tvg-logo="https://3.bp.blogspot.com/-0ueHjIMPvIU/WqvT3MvY43I/AAAAAAAAAgU/DCtlRvcqaDUWJSj3JvUIsy9kw0HqqCSkgCLcBGAs/s1600/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="ENTRETENIMENTO",BR:Telecine Pipoca Principal HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141753
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="BR:Telecine Pipoca SD." tvg-logo="https://3.bp.blogspot.com/-0ueHjIMPvIU/WqvT3MvY43I/AAAAAAAAAgU/DCtlRvcqaDUWJSj3JvUIsy9kw0HqqCSkgCLcBGAs/s1600/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="ENTRETENIMENTO",BR:Telecine Pipoca SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141754
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="BR: TELECINE PREMIUM FHD" tvg-logo="https://4.bp.blogspot.com/-Ky5n23ZYFRE/WqvT3s4s-NI/AAAAAAAAAgY/7IWJcUa44dwTzna3TbI0DflgoTv8eMKCwCLcBGAs/s1600/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="ENTRETENIMENTO",BR: TELECINE PREMIUM FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153720
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium Principal HD." tvg-logo="https://4.bp.blogspot.com/-Ky5n23ZYFRE/WqvT3s4s-NI/AAAAAAAAAgY/7IWJcUa44dwTzna3TbI0DflgoTv8eMKCwCLcBGAs/s1600/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="ENTRETENIMENTO",Telecine Premium Principal HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141750
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="BR:Telecine Premium SD." tvg-logo="https://4.bp.blogspot.com/-Ky5n23ZYFRE/WqvT3s4s-NI/AAAAAAAAAgY/7IWJcUa44dwTzna3TbI0DflgoTv8eMKCwCLcBGAs/s1600/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="ENTRETENIMENTO",BR:Telecine Premium SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141751
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="BR:Telecine Touch hd." tvg-logo="https://4.bp.blogspot.com/-tPAoNZ9x26A/WqvT4DXTL_I/AAAAAAAAAgc/hK9mp190eCIER-IUzcULFIWQ_ltf-D4iwCLcBGAs/s1600/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.png" group-title="ENTRETENIMENTO",BR:Telecine Touch hd.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141747
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="BR:Telecine Touch sd." tvg-logo="https://4.bp.blogspot.com/-tPAoNZ9x26A/WqvT4DXTL_I/AAAAAAAAAgc/hK9mp190eCIER-IUzcULFIWQ_ltf-D4iwCLcBGAs/s1600/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.png" group-title="ENTRETENIMENTO",BR:Telecine Touch sd.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141748
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="BR: TLC Principal HD." tvg-logo="https://3.bp.blogspot.com/-yj9Np1y6kes/WqvT6JRKomI/AAAAAAAAAgw/tw9LURKrUhArK4Y3UPvk8l_rw4cKGRY2ACLcBGAs/s1600/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.png" group-title="ENTRETENIMENTO",BR: TLC Principal HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141742
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="BR:TLC SD." tvg-logo="https://3.bp.blogspot.com/-yj9Np1y6kes/WqvT6JRKomI/AAAAAAAAAgw/tw9LURKrUhArK4Y3UPvk8l_rw4cKGRY2ACLcBGAs/s1600/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.png" group-title="ENTRETENIMENTO",BR:TLC SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141743
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="BR:TNT Principal HD." tvg-logo="https://3.bp.blogspot.com/-ihUbMxUgoYg/WqvT6stuTVI/AAAAAAAAAgs/Tv_Ey7nzi4INrkPoikhnBz1yzd7OwYlFACLcBGAs/s1600/1516362096_b118548d389431cc50d80da692ee4861553c9b35.png" group-title="ENTRETENIMENTO",BR:TNT Principal HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141740
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="BR:TNT SD." tvg-logo="https://3.bp.blogspot.com/-ihUbMxUgoYg/WqvT6stuTVI/AAAAAAAAAgs/Tv_Ey7nzi4INrkPoikhnBz1yzd7OwYlFACLcBGAs/s1600/1516362096_b118548d389431cc50d80da692ee4861553c9b35.png" group-title="ENTRETENIMENTO",BR:TNT SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141741
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="BR:TNT Séries HD." tvg-logo="https://1.bp.blogspot.com/-Go3uPFTIRKE/WqvT7IU--dI/AAAAAAAAAg0/bzl1iAj1DfkxmAQavrVazUseRclfkYCvwCLcBGAs/s1600/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="ENTRETENIMENTO",BR:TNT Séries HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141737
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="BR:TNT Séries SD." tvg-logo="https://1.bp.blogspot.com/-Go3uPFTIRKE/WqvT7IU--dI/AAAAAAAAAg0/bzl1iAj1DfkxmAQavrVazUseRclfkYCvwCLcBGAs/s1600/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="ENTRETENIMENTO",BR:TNT Séries SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141738
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="BR:Universal Channel HD." tvg-logo="https://2.bp.blogspot.com/-5E1M8XYZtfc/WqvT-tPFWgI/AAAAAAAAAhg/cAdiOhjnw-ADB4BYcPs3hBq_c86FA-bCgCLcBGAs/s1600/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="ENTRETENIMENTO",BR:Universal Channel HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141728
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="BR:Universal Channel SD." tvg-logo="https://2.bp.blogspot.com/-5E1M8XYZtfc/WqvT-tPFWgI/AAAAAAAAAhg/cAdiOhjnw-ADB4BYcPs3hBq_c86FA-bCgCLcBGAs/s1600/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="ENTRETENIMENTO",BR:Universal Channel SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141729
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="BR:Warner Channel HD." tvg-logo="https://4.bp.blogspot.com/-t-XkHMXGvi0/WqvT_vBuqvI/AAAAAAAAAhs/qPrgt7toNSgSm3ZudSHTqgkZUTgik1yQACLcBGAs/s1600/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="ENTRETENIMENTO",BR:Warner Channel HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141720
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="BR:Warner Channel SD." tvg-logo="https://4.bp.blogspot.com/-t-XkHMXGvi0/WqvT_vBuqvI/AAAAAAAAAhs/qPrgt7toNSgSm3ZudSHTqgkZUTgik1yQACLcBGAs/s1600/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="ENTRETENIMENTO",BR:Warner Channel SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141721
